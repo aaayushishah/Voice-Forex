@@ -77,7 +77,7 @@ body {
     <div><br /><br /><br /><br /></div>
     
          
-   <div class="row" id="CurrencyConvertor">
+   <div class="row">
                 <div class="col-sm-12">
                     <div class="title-box">
                         <h2 class="section-title">Currency Convertor</h2>
@@ -108,7 +108,7 @@ body {
     </script>
         </div>
    
-<div class="row" id="EconomicCalendar">
+<div class="row">
            <div class="row">
                 <div class="col-sm-12">
                     <div class="title-box">

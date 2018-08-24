@@ -166,7 +166,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="main-navbar">
                   <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="HomePage.aspx">Home <span class="sr-only">(current)</span></a></li>
+                    <li class="active"><a href="#header">Home <span class="sr-only">(current)</span></a></li>
                     <li class="dropdown">
                          <a class="dropdown-toggle" data-toggle="dropdown">Forex</a>
                         <ul class="dropdown-menu">
@@ -214,15 +214,8 @@
                       </ul>
                        
                     </li>
-                 
-                   <li class="dropdown">
-                         <a class="dropdown-toggle" data-toggle="dropdown" href="Currency.aspx">Currency</a>
-                           <ul class="dropdown-menu">
-                            <li><a tabindex="-1" href="Currency.aspx#CurrencyConvertor">Curreny Convertor</a></li>
-                            <li><a tabindex="-1" href="Currency.aspx#EconomicCalendar">Economic Calendar</a></li>
-                          
-                        </ul>
-                    </li>
+                    <li><a href="ContactUs.aspx">Contact Us</a></li>
+                    <li><a href="TravelPages/TravelHome.aspx">Travel</a></li>
                       <li class="dropdown">
                          <a class="dropdown-toggle" data-toggle="dropdown">Insurance</a>
                         <ul class="dropdown-menu">
@@ -233,52 +226,14 @@
                         </ul>
                         </li>
                     
-                       <li><a href="ContactUs.aspx">Contact Us</a></li>
+                    
                   </ul>
                 </div><!-- /.navbar-collapse -->
                 </div><!-- /.container-fluid -->
                 </nav>
 
         <%-- Dropdown Complete--%>
-                <div><br /><br /><br /><br /></div>
-       <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Quotes</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
-  {
-  "symbols": [
-    {
-      "title": "EUR/USD",
-      "proName": "FX_IDC:EURUSD"
-    },
-    {
-      "description": "",
-      "proName": "FX_IDC:EURINR"
-    },
-    {
-      "description": "",
-      "proName": "USDINR"
-    },
-    {
-      "description": "",
-      "proName": "FX:USDCAD"
-    },
-    {
-      "description": "",
-      "proName": "FX_IDC:INRUSD"
-    },
-    {
-      "description": "",
-      "proName": "FOREXCOM:AUDUSD"
-    }
-  ],
-  "locale": "in"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
- 
+
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>

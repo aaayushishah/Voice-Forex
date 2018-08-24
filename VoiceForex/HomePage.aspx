@@ -189,8 +189,8 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="title-box">
-                        <p class="section-subtitle"> our partners for</p>
-                        <h2 class="section-title">Money Transfer</h2>
+                        <p class="section-subtitle">Some of our</p>
+                        <h2 class="section-title">Satisfied clients</h2>
                     </div>
                 </div>
             </div>
@@ -238,7 +238,7 @@
                         <div class="item">
                             <div class="row">
                                 <div class="col-sm-5">
-                                    <img class="img-responsive img-full" src="Images/person.png" alt="testimonial">
+                                    <img class="img-responsive img-full" src="assets/images/testimonial-1.jpg" alt="testimonial">
                                 </div>
                                 <div class="col-sm-7">
                                     <p>
@@ -253,7 +253,7 @@ also purchased currecy at best rate then other....
                         <div class="item">
                             <div class="row">
                                 <div class="col-sm-5">
-                                    <img class="img-responsive img-full" src="Images/person.png" alt="testimonial">
+                                    <img class="img-responsive img-full" src="assets/images/testimonial-2.jpg" alt="testimonial">
                                 </div>
                                 <div class="col-sm-7">
                                     <p>
@@ -267,7 +267,7 @@ also purchased currecy at best rate then other....
                         <div class="item">
                             <div class="row">
                                 <div class="col-sm-5">
-                                    <img class="img-responsive img-full" src="Images/person.png" alt="testimonial">
+                                    <img class="img-responsive img-full" src="assets/images/testimonial-3.jpg" alt="testimonial">
                                 </div>
                                 <div class="col-sm-7">
                                     <p>
